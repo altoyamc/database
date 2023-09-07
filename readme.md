@@ -12,3 +12,10 @@ sudo docker exec -it localdb mysql -uroot -p
 ## Close and delete docker
 sudo docker stop localdb
 sudo docker rm localdb
+
+## Access details
+Username: root
+Password: password
+Database Name: localdb
+Port: 3306
+Ip: 0.0.0.0
